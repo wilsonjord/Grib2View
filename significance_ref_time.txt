@@ -1,0 +1,6 @@
+Code,Figure	Meaning
+0,Analysis
+1,Start of Forecast
+2,Verifying Time of Forecast
+3,Observation Time
+255,Missing

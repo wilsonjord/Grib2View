@@ -1,0 +1,17 @@
+VALUE,SUBCENTER
+1,NCEP Re-Analysis Project
+2,NCEP Ensemble Products
+3,NCEP Central Operations
+4,Environmental Modeling Center
+5,Hydrometeorological Prediction Center
+6,Marine Prediction Center
+7,Climate Prediction Center
+8,Aviation Weather Center
+9,Storm Prediction Center
+10,National Hurricane Prediction Center
+11,NWS Techniques Development Laboratory
+12,NESDIS Office of Research and Applications
+13,Federal Aviation Administration
+14,NWS Meteorological Development Laboratory
+15,North American Regional Reanalysis Project
+16,Space Weather Prediction Center

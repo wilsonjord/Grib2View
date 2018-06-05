@@ -1,0 +1,12 @@
+Code Figure	Meaning
+0,Analysis Products
+1,Forecast Products
+2,Analysis and Forecast Products
+3,Control Forecast Products
+4,Perturbed Forecast Products
+5,Control and Perturbed Forecast Products
+6,Processed Satellite Observations
+7,Processed Radar Observations
+8,Event Probability
+192,Experimental Products
+255,Missing
